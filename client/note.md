@@ -1,0 +1,2 @@
+- cara integrasi reactjs app + API
+- akan menggunakan tool AXIOS untuk http requestnya

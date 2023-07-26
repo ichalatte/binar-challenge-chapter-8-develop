@@ -1,0 +1,6 @@
+body {
+    background-image: url("../src/assets/img/requirements.png"); /* Ganti dengan URL gambar latar belakang yang sesuai */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
